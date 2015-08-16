@@ -26,3 +26,12 @@
 *.exe
 *.out
 *.app
+
+# VC
+*.sdf
+*.ilk
+*.pdb
+*.idb
+*.log
+*.opensdf
+*.tlog/
